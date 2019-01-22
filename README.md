@@ -1,2 +1,2 @@
 # Python
-python repository
+python repository for basic learning
